@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPDVICommonPropertiesWinforms", "SPDVICommonPropertiesWinforms\SPDVICommonPropertiesWinforms.csproj", "{BD8AD894-4647-4D7C-97C7-FDEDF7C67D9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD8AD894-4647-4D7C-97C7-FDEDF7C67D9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD8AD894-4647-4D7C-97C7-FDEDF7C67D9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD8AD894-4647-4D7C-97C7-FDEDF7C67D9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD8AD894-4647-4D7C-97C7-FDEDF7C67D9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1346E790-EEC9-480B-98DC-5FE1F85794BE}
+	EndGlobalSection
+EndGlobal

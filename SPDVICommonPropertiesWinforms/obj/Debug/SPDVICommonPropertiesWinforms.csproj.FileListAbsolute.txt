@@ -1,0 +1,10 @@
+C:\Users\CharliEnglish\Desktop\Segundo DAM\1ª Evaluacion\Desarrollo de interfaces\SPDVICommonPropertiesWinforms\SPDVICommonPropertiesWinforms\bin\Debug\SPDVICommonPropertiesWinforms.exe.config
+C:\Users\CharliEnglish\Desktop\Segundo DAM\1ª Evaluacion\Desarrollo de interfaces\SPDVICommonPropertiesWinforms\SPDVICommonPropertiesWinforms\bin\Debug\SPDVICommonPropertiesWinforms.exe
+C:\Users\CharliEnglish\Desktop\Segundo DAM\1ª Evaluacion\Desarrollo de interfaces\SPDVICommonPropertiesWinforms\SPDVICommonPropertiesWinforms\bin\Debug\SPDVICommonPropertiesWinforms.pdb
+C:\Users\CharliEnglish\Desktop\Segundo DAM\1ª Evaluacion\Desarrollo de interfaces\SPDVICommonPropertiesWinforms\SPDVICommonPropertiesWinforms\obj\Debug\SPDVICommonPropertiesWinforms.csprojAssemblyReference.cache
+C:\Users\CharliEnglish\Desktop\Segundo DAM\1ª Evaluacion\Desarrollo de interfaces\SPDVICommonPropertiesWinforms\SPDVICommonPropertiesWinforms\obj\Debug\SPDVICommonPropertiesWinforms.mainForm.resources
+C:\Users\CharliEnglish\Desktop\Segundo DAM\1ª Evaluacion\Desarrollo de interfaces\SPDVICommonPropertiesWinforms\SPDVICommonPropertiesWinforms\obj\Debug\SPDVICommonPropertiesWinforms.Properties.Resources.resources
+C:\Users\CharliEnglish\Desktop\Segundo DAM\1ª Evaluacion\Desarrollo de interfaces\SPDVICommonPropertiesWinforms\SPDVICommonPropertiesWinforms\obj\Debug\SPDVICommonPropertiesWinforms.csproj.GenerateResource.cache
+C:\Users\CharliEnglish\Desktop\Segundo DAM\1ª Evaluacion\Desarrollo de interfaces\SPDVICommonPropertiesWinforms\SPDVICommonPropertiesWinforms\obj\Debug\SPDVICommonPropertiesWinforms.csproj.CoreCompileInputs.cache
+C:\Users\CharliEnglish\Desktop\Segundo DAM\1ª Evaluacion\Desarrollo de interfaces\SPDVICommonPropertiesWinforms\SPDVICommonPropertiesWinforms\obj\Debug\SPDVICommonPropertiesWinforms.exe
+C:\Users\CharliEnglish\Desktop\Segundo DAM\1ª Evaluacion\Desarrollo de interfaces\SPDVICommonPropertiesWinforms\SPDVICommonPropertiesWinforms\obj\Debug\SPDVICommonPropertiesWinforms.pdb
